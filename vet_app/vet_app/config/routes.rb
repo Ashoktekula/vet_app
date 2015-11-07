@@ -6,6 +6,8 @@ VetApp::Application.routes.draw do
 
 
   resources :customers
+  
+  
 
 
   resources :receptionists
