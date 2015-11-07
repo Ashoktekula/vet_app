@@ -1,2 +1,0 @@
-# vet_app
-Assignment
